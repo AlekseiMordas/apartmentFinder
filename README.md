@@ -4,11 +4,12 @@ Setup
 Requirements:
 
 
-•	Java 6 or more
-•	Maven
-•	Firefox(f.e 28 version)
+-Java 6 or more
 
----
+-Maven
+
+-Firefox(f.e 28 version)
+
 
 1) Clone or pull data from repo https://github.com/AlekseiMordas/apartmentFinder.git
 
